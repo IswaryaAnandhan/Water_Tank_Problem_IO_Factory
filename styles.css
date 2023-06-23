@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+#block-height {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#water-tank {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #333;
+    background-color: #F0F0F0;
+}
+
+.bar {
+    fill: yellow;
+    stroke: #333;
+    stroke-width: 1px;
+}
+
+.water {
+    fill: rgb(4, 94, 179);
+    opacity: 0.6;
+}
